@@ -1,4 +1,5 @@
 # Unity Game: NumberWizard (Console)
+Hi, this is my first Unity Game Project
 <ul>
 <li> Number Wizard is a simple 'guess the number' game</li>
 <li> It runs on Console.</li>
