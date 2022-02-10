@@ -9,3 +9,6 @@ Hi, this is my first Unity Game Project, named "Number Wizard":
 </ul>
 
 I will also make a UI version of this game
+
+# Screenshot
+<img src="screenshots/NumberWizardConsole.png" />
